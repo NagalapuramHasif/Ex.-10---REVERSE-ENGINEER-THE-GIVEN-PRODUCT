@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![hasif](https://github.com/NagalapuramHasif/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149365567/2b61e250-5a34-4a0a-968a-4f794646a64b)
 
 ### Output:
 
+![hasif 1](https://github.com/NagalapuramHasif/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149365567/4100feaf-1d35-44bf-888f-c5c32055b057)
 
-### Name:
-### Register Number:
+### Name:Nagalapuram Hasif
+### Register Number:23010367
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
